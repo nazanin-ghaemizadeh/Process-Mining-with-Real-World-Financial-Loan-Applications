@@ -26,6 +26,20 @@ This repository presents the full pipeline of **process mining** applied to a **
 
 ---
 
+🖼️ Process Visualizations
+Below are visualizations of the discovered process models using different process mining techniques:
+
+🔷 Heuristics Miner
+![image](https://github.com/user-attachments/assets/30f7307b-1407-4022-bb15-edbfb08b0d24)
+
+🔷 Alpha Algorithm 
+![image](https://github.com/user-attachments/assets/81f49c54-3974-48c6-af25-901dbb8b2406)
+
+🔷 Inductive Miner 
+![image](https://github.com/user-attachments/assets/785716a2-2a7a-4f96-b402-4c79f6989802)
+
+---
+
 ## 🔎 Dataset Overview
 
 * **Source:** Real bank event logs (2012, The Netherlands)
