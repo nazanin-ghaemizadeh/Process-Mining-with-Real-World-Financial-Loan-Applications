@@ -27,9 +27,8 @@ This repository presents the full pipeline of **process mining** applied to a **
 ---
 
 🖼️ Process Visualizations
-Below is a visualization of the discovered process model using Heuristics Miner process mining technique:
+Below is a visualization of the discovered process model using the *Heuristics Miner* process mining technique:
 
-🔷 Heuristics Miner
 ![image](https://github.com/user-attachments/assets/30f7307b-1407-4022-bb15-edbfb08b0d24)
 
 ---
